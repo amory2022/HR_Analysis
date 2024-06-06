@@ -1,7 +1,7 @@
 # HR_Analysis
 As a human resources data analyst at Company X, your goal is to analyze and visualize HR data using Power BI to provide insights and support data-driven decision-making. Your objective is to create a comprehensive HR dashboard that provides actionable information to various stakeholders, including HR managers, department heads, and executives. The dashboard should help improve workforce management, optimize recruitment strategies, and enhance overall employee engagement and performance.
 
-***Business Questions to Address:
+### Business Questions to Address:
 1. Workforce Composition:
 - How are employees distributed across different job titles and departments?
 - What is the gender and ethnicity representation within each department or business unit?
